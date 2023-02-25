@@ -1,0 +1,177 @@
+body{
+position: relative;
+width: 1728px;
+height: 1117px;
+background: #FFFFFF;
+}
+#topbar{
+    position: absolute;
+width: 1728px;
+height: 75px;
+left: 0px;
+top: 0px;
+background: #000000;
+}
+#teacherportal{
+    position: absolute;
+width: 221px;
+height: 39px;
+left: 31px;
+top: 18px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+color: #FFFFFF;
+}
+#login{
+    position: absolute;
+width: 83px;
+height: 39px;
+left: 1590px;
+top: 18px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+color: #FFFFFF;
+}
+#signup{
+    position: absolute;
+width: 105px;
+height: 39px;
+left: 1440px;
+top: 18px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+color: #FFFFFF;
+}
+#email{
+box-sizing: border-box;
+position: absolute;
+width: 1642px;
+height: 56px;
+left: 31px;
+top: 255px;
+border: 1px solid #000000;
+}
+#emailname{
+position: absolute;
+width: 61px;
+height: 29px;
+left: 54px;
+top: 12px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+color: #000000;
+}
+#fullnamebox{
+box-sizing: border-box;
+position: absolute;
+width: 1642px;
+height: 56px;
+left: 31px;
+top: 172px;
+border: 1px solid #000000;
+}
+#fullname{
+position: absolute;
+width: 112px;
+height: 29px;
+left: 54px;
+top: 12px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+color: #000000;
+}
+#passwordbox{
+box-sizing: border-box;
+position: absolute;
+width: 1642px;
+height: 56px;
+left: 31px;
+top: 338px;
+border: 1px solid #000000;
+}
+#password{
+position: absolute;
+width: 111px;
+height: 29px;
+left: 54px;
+top: 12px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+color: #000000;
+}
+#confirmpasswordbox{
+box-sizing: border-box;
+position: absolute;
+width: 1642px;
+height: 56px;
+left: 31px;
+top: 421px;
+border: 1px solid #000000;
+}
+#confirmpassword{
+position: absolute;
+width: 208px;
+height: 29px;
+left: 54px;
+top: 15px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+color: #000000;
+}
+#signupbox{
+box-sizing: border-box;
+position: absolute;
+width: 176px;
+height: 56px;
+left: 31px;
+top: 508px;
+background: #000000;
+border: 1px solid #000000;
+}
+#signupbutton{
+position: absolute;
+width: 79px;
+height: 29px;
+left: 56px;
+top: 12px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+color: #FFFFFF;
+}
+#teachersignup{
+position: absolute;
+width: 252px;
+height: 39px;
+left: 31px;
+top: 106px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+color: #000000;
+}
